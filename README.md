@@ -83,14 +83,14 @@ profile.sayHello(); // "Write code for humans first, machines second."
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabian-syah&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="165"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabian-syah&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabian-syah&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabian-syah&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fabian-syah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=fabian-syah&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
@@ -101,8 +101,8 @@ profile.sayHello(); // "Write code for humans first, machines second."
 <summary><b>Lihat Detail Trophies & Waktu Produktif</b> (Klik untuk membuka)</summary>
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabian-syah&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabian-syah&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabian-syah&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabian-syah&theme=github_dark&utcOffset=7" />
   <br/><br/>
   <img src="https://github-trophies.vercel.app/?username=fabian-syah&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </div>
