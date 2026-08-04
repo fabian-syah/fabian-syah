@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/mXbQ2VCR26O2Y/giphy.gif" width="400" style="border-radius: 15px;" />
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Laravel+%7C+Next.js+%7C+Flutter;Building+at+PSTORE;Clean+code%2C+real+impact." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+%26+Mobile+Developer;Laravel+%7C+Next.js+%7C+Flutter;Building+at+PStore;Clean+code%2C+real+impact." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -29,137 +29,100 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## ⚡ Who Am I?
+
+```javascript
+import { Developer } from "fabian";
+
+const profile = new Developer({
+  name: "Fabian Syah Al Ghiffari",
+  currentRole: "Fullstack & Mobile Developer @ PStore",
+  age: 24,
+  location: "Jakarta, 🇮🇩",
+  passions: ["Clean Code", "Scalable Systems", "UI/UX"],
+});
+
+profile.sayHello(); // "Write code for humans first, machines second."
+```
 
 > 💡 **Info:** Sebelumnya saya menggunakan username **[kirabian](https://github.com/kirabian)** di GitHub, namun sekarang saya menggunakan akun ini.
 
-```ts
-const fabian = {
-  name: "Fabian Syah Al Ghiffari",
-  age: 24,
-  role: "Fullstack & Mobile Developer",
-  company: "PStore — iPhone Reseller #1 Indonesia",
-  location: "Jakarta, Indonesia",
-  stack: ["Next.js", "Laravel", "Flutter", "Node.js", "Docker"],
-  focus: "Membangun produk digital yang bersih, scalable, dan berdampak nyata.",
-  motto: "Write code for humans first, machines second.",
-};
-```
+---
+
+## 🚀 Tech Arsenal
+
+<table>
+  <tr>
+    <td align="center"><b>Frontend & Mobile</b></td>
+    <td align="center"><b>Backend & Database</b></td>
+    <td align="center"><b>Tools & Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,dart&perline=5" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,js,mysql,postgres,redis&perline=5" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,vscode,figma,postman&perline=5" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Career Highlights
+
+### **🏢 PSTORE** (2025 - Present)
+**Role:** Fullstack Developer
+> Membangun sistem internal dan tools operasional untuk bisnis reseller iPhone #1 di Indonesia dengan ribuan transaksi per bulan. Fokus pada reliabilitas sistem, optimasi performa, dan manajemen deployment (VPS & Pipeline).
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,php,dart,nextjs,react,tailwind,flutter,laravel,nodejs,mysql,postgres,redis,docker,git,linux,nginx,figma,vscode,postman&perline=20" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabian-syah&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabian-syah&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff" height="165"/>
 </div>
-
----
-
-## 💼 Pengalaman
-
-**🏢 PSTORE** — Fullstack Developer _(2025 – Sekarang)_
-
-> Bisnis reseller iPhone terkemuka di Indonesia dengan ribuan transaksi per bulan.
-
-- Membangun sistem internal perusahaan dari nol hingga production-ready
-- Membuat tools operasional untuk mempercepat alur kerja tim
-- Mengelola VPS, deployment pipeline, dan optimasi performa sistem
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fabian-syah&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabian-syah&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=fabian-syah&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fabian-syah&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
 
-## 🌟 Profile Summary
+## 🏆 Trophies & Stats
 
-<div align="center">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabian-syah&theme=github_dark" alt="Profile Details" />
-
+<details>
+<summary><b>Lihat Detail Trophies & Waktu Produktif</b> (Klik untuk membuka)</summary>
 <br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabian-syah&theme=github_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabian-syah&theme=github_dark&utcOffset=7" alt="Productive Time" />
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabian-syah&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabian-syah&theme=tokyonight&utcOffset=7" />
+  <br/><br/>
+  <img src="https://github-trophies.vercel.app/?username=fabian-syah&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </div>
+</details>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎧 Vibes
 
 <div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=fabian-syah&theme=darkhub&no-frame=true&column=7&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fabian-syah/fabian-syah/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
-## 🏙️ 3D Contribution City
-
-<div align="center">
-
-<a href="https://www.githubcity.com/u/fabian-syah" target="_blank">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub City" width="100%" />
-</a>
-
-</div>
-
----
-
-## 💬 Prinsip Kerja
-
-> _"Tulis kode untuk manusia terlebih dahulu, baru untuk mesin."_
-
-> _"Ship it, then improve it — tapi jangan ship sampah."_
-
----
-
-## ☕ Support
-
-Kalau kamu merasa project-ku bermanfaat, traktir kopi yuk!
-
-<div align="center">
-
-[![Saweria](https://img.shields.io/badge/☕%20Traktir%20di%20Saweria-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://saweria.co/fabian-syah)
-
-</div>
-
----
-
-<div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/3137ds3qan7i6ro3ad2ljmzbijau">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3137ds3qan7i6ro3ad2ljmzbijau&count=8&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3137ds3qan7i6ro3ad2ljmzbijau&count=6&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ---
 
 <div align="center">
+  <i>"Ship it, then improve it — tapi jangan ship sampah."</i><br/>
+  <sup>Terima kasih sudah mampir! Dukung project saya dengan <a href="https://saweria.co/fabian-syah">traktir kopi di Saweria ☕</a></sup>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
