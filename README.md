@@ -76,9 +76,9 @@ profile.sayHello(); // "Write code for humans first, machines second."
 
 ### 🏢 Sistem Bisnis & Operasional
 
+- **[Absen PSTORE](https://github.com/fabian-syah/absen-pstore)** 🕐 — sistem absensi karyawan: presensi masuk/pulang, pengajuan izin & cuti, riwayat kehadiran, ekspor laporan Excel, notifikasi push web, dan cetak laporan PDF. — `Laravel` `Firebase` `Web Push` `DomPDF`
+- **[Kasara](https://github.com/fabian-syah/kasara)** 🧾 — sistem kasir & manajemen penjualan multi-cabang: backend API + frontend SPA, diskon & riwayat transaksi, cetak nota, pemindaian QR/barcode, laporan penjualan berbasis grafik, dan OCR struk. — `Laravel 12` `Vue 3` `Laravel Reverb` `Tesseract` `Chart.js`
 - **[Simpenan](https://github.com/fabian-syah/simpenan)** ☁️ — penyimpanan berkas berbasis web (Google Drive-style): upload berkas besar, penjelajah folder, tautan berbagi, streaming audio/video, dan langganan berbayar. — `React 19` `TypeScript` `Supabase` `S3` `FFmpeg WASM`
-- **[PSTORE POS](https://github.com/fabian-syah/pstorepos)** 🛒 — aplikasi kasir ritel: transaksi, manajemen stok, cetak struk PDF, ekspor Excel, notifikasi real-time Pusher, backup Google Drive. — `Laravel` `Livewire`
-- **[PS Barcode](https://github.com/fabian-syah/psbarcode)** 🎟️ — manajemen penyewaan PlayStation dengan pembuatan & pemindaian barcode unit. — `Laravel` `Livewire`
 - **[Scan KTP](https://github.com/fabian-syah/scan-ktp)** 🪪 — pendataan warga dengan OCR KTP (Tesseract) dan dasbor analitik demografi. — `Laravel 13` `Livewire 4`
 
 ### 🌐 Platform & Komunitas
