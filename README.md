@@ -72,6 +72,35 @@ profile.sayHello(); // "Write code for humans first, machines second."
 
 ---
 
+## 🚀 Proyek Pilihan
+
+### 🏢 Sistem Bisnis & Operasional
+
+- **[Simpenan](https://github.com/fabian-syah/simpenan)** ☁️ — penyimpanan berkas berbasis web (Google Drive-style): upload berkas besar, penjelajah folder, tautan berbagi, streaming audio/video, dan langganan berbayar. — `React 19` `TypeScript` `Supabase` `S3` `FFmpeg WASM`
+- **[PSTORE POS](https://github.com/fabian-syah/pstorepos)** 🛒 — aplikasi kasir ritel: transaksi, manajemen stok, cetak struk PDF, ekspor Excel, notifikasi real-time Pusher, backup Google Drive. — `Laravel` `Livewire`
+- **[PS Barcode](https://github.com/fabian-syah/psbarcode)** 🎟️ — manajemen penyewaan PlayStation dengan pembuatan & pemindaian barcode unit. — `Laravel` `Livewire`
+- **[Scan KTP](https://github.com/fabian-syah/scan-ktp)** 🪪 — pendataan warga dengan OCR KTP (Tesseract) dan dasbor analitik demografi. — `Laravel 13` `Livewire 4`
+
+### 🌐 Platform & Komunitas
+
+- **[KodeRuang](https://github.com/fabian-syah/KodeRuang)** 🧩 — platform komunitas developer: berbagi resource coding dengan voting, komentar, bookmark, sistem reputasi, panel moderasi, dan asisten AI. — `Next.js` `Supabase` `Vercel AI SDK` `Cloudflare Workers`
+- **[fushinade dev](https://github.com/fabian-syah/fushinade-dev)** 🧑‍💻 — platform belajar programming: materi terarah, latihan praktis, diskusi aktif, dan tantangan mingguan. — `Next.js 16` `TypeScript`
+- **[QuickSync AI](https://github.com/fabian-syah/quicksync-ai)** ⚡ — aplikasi chat AI multi-model dengan autentikasi, riwayat percakapan tersimpan, integrasi Notion, dan dukungan PWA. — `Next.js 16` `Supabase` `Vercel AI SDK`
+- **[Fushinade Bot WA](https://github.com/fabian-syah/fushinade-botWA)** 🤖 — bot WhatsApp multifungsi: asisten AI dengan failover model, AI Vision, pembuat stiker, unduh video TikTok/IG/YouTube, berita, cuaca. — `Node.js` `Baileys` `Groq` `Qwen-VL`
+
+### 🎨 Web & Situs Klien
+
+- **[Adhyaksa FC Bekasi](https://github.com/fabian-syah/adhyaksa-fc-bekasi)** ⚽ — situs resmi klub sepak bola: skuad, ticker pertandingan, statistik, etalase merchandise, mode gelap/terang. — `Next.js 16` `Tailwind v4` `Framer Motion`
+
+### 🧰 Paket & Alat
+
+- **[Lavalpine Core](https://github.com/fabian-syah/lavalpine-core)** 🏔️ — paket starter kit Laravel SaaS: Livewire Volt + Alpine.js dengan sistem modal dan toast global. — `TALL Stack`
+- **[Catatan Kita](https://github.com/fabian-syah/catatankita)** 📝 — aplikasi catatan Markdown dengan editor CodeMirror, pratinjau langsung, dan penyimpanan Supabase. — `Vanilla JS` `Supabase`
+- **[LinkHub](https://github.com/fabian-syah/link-hub)** 🔗 — halaman "link in bio" ringan yang dapat dikustomisasi. — `Tailwind CSS`
+- **[Jadwal Kuliahku](https://github.com/fabian-syah/jadwalkuliahku)** 📅 — penjadwal kuliah mingguan dalam satu berkas HTML. — `Tailwind CSS`
+
+---
+
 ## 💼 Career Highlights
 
 ### **🏢 PSTORE** (2025 - Present)
