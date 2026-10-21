@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=header" width="100%" />
-
 # Hi there, I'm Fabian 👋
 
-<img src="https://media.giphy.com/media/mXbQ2VCR26O2Y/giphy.gif" width="380" style="border-radius: 14px;" alt="Coding Animation" />
+<img src="./assets/coder.gif" width="420" style="border-radius: 14px;" alt="Coding Animation" />
 
 <br/><br/>
 
