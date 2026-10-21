@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Fabian%20Syah%20Al%20Ghiffari&fontSize=38&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20Mobile%20Developer%20·%20Building%20at%20PSTORE%20🇮🇩&descFontSize=16&descColor=8b949e&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=header" width="100%" />
 
-<br/>
+# Hi there, I'm Fabian 👋
+
+<img src="https://media.giphy.com/media/mXbQ2VCR26O2Y/giphy.gif" width="380" style="border-radius: 14px;" alt="Coding Animation" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Fullstack+%26+Mobile+Developer;Next.js+%7C+Laravel+%7C+Flutter+%7C+TypeScript;Building+scalable+systems+at+PSTORE;Write+code+for+humans+first%2C+machines+second." alt="Typing SVG" />
 
